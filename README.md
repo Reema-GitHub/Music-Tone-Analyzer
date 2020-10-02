@@ -15,7 +15,9 @@ Dataset is present in the data folder
 Execute Tone_Analyzer_Final.ipynb
 This will generate the localhost link for webpage
 
-# Step 2: Execute Tone_For_CSV.ipynb to obtain the metrics for the model
+# Step 2: 
+
+Execute Tone_For_CSV.ipynb to obtain the metrics for the model
 
 Refer the CLAAT document link below for detailed report of project:
 
